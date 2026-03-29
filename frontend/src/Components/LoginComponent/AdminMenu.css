@@ -1,0 +1,17 @@
+.admin-navbar{
+background:linear-gradient(90deg,#1e3c72,#101827);
+padding:10px 40px;
+}
+
+.admin-navbar .nav-link,
+.admin-navbar .dropdown-toggle{
+color:white !important;
+font-weight:500;
+margin-right:10px;
+}
+
+.admin-navbar .nav-link:hover,
+.admin-navbar .dropdown-toggle:hover{
+opacity:0.8;
+}
+
